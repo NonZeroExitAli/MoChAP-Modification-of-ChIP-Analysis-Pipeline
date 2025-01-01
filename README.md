@@ -28,6 +28,8 @@ Local computer : Download .py file ( python 3 )
 ```
     
 ## Demo
-![Workflow](https://drive.google.com/file/d/1LL8q6Lu6Es0ECQH4OL5IlKwI_IffXrR9/view?usp=sharing)
+![Workflow](https://drive.google.com/uc?id=1LL8q6Lu6Es0ECQH4OL5IlKwI_IffXrR9)
+
+
 
 
