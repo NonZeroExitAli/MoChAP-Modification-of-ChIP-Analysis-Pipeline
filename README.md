@@ -27,7 +27,7 @@ Install my-project with npm
 Local computer : Download .py file ( python 3 )
 ```
     
-## Demo
+## Pipeline
 ![Workflow](https://drive.google.com/uc?id=1LL8q6Lu6Es0ECQH4OL5IlKwI_IffXrR9)
 
 
