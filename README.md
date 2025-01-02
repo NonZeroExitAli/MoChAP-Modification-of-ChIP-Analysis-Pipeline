@@ -31,5 +31,6 @@ Local computer : Download .py file ( python 3 )
 ![Workflow](https://drive.google.com/uc?id=1LL8q6Lu6Es0ECQH4OL5IlKwI_IffXrR9)
 
 
+![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)
 
 
