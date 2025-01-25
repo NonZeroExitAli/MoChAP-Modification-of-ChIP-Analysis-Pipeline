@@ -33,4 +33,11 @@ Local computer : Download .py file ( python 3 )
 
 ![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)
 
+### Work Contribution
+
+Ali Magdi: Implement a Smith-waterman alignment algorithm as well as Gathering data on E. coli str. K-12. substr. MG1655
+
+Rozan Wael Nabil: Implement a Motif analysis algorithm.
+
+Suhaila S. Elbehairy: Implemented the CNN peak calling architecture
 
